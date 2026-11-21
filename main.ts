@@ -6,10 +6,10 @@ const OUTPUT_DIR = process.env.MAKEFUN_OUTPUT_DIR ?? '/output';
 const TEXT = [
   'You read the way you always read,',
   'weighing word by word',
-  'until the noise thins. One line stays.',
+  'until the words thin. One line stays.',
   '',
   'The rest drift off like paper',
-  'from a desk no one hurries by.',
+  'and settle, out of the way.',
   '',
   'The answer was forming before the question ended,',
   'quiet as a sum that adds up to itself,',
